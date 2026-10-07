@@ -1,7 +1,8 @@
 {
-  "app_version": "26.6.3",
+  "app_version": "26.11.0",
   "engine_version": "26.1",
-  "app_url": "https://github.com/wrenchsoftwares/SupplystraUpdates/releases/download/v26.6.3/Supplystra.26.6.3.zip",
+  "app_url": "https://github.com/wrenchsoftwares/SupplystraUpdates/releases/download/v26.11.0/Supplystra.26.11.0.zip",
+  "installer_url": "https://github.com/wrenchsoftwares/SupplystraUpdates/releases/download/v26.11.0/Supplystra_Setup_26.11.0.exe",
   "engine_url": "",
-  "notes": "Update 26.6.3"
+  "notes": "Update 26.11.0"
 }
