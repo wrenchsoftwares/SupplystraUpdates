@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "packs": [
+    {
+      "schema_version": 1,
+      "id": "food_dz-ar_2026-10-13",
+      "name": "Food - Algeria (Arabic)",
+      "market": "DZ",
+      "language": "ar",
+      "category": "food",
+      "version": "2026-10-13",
+      "item_count": 4563,
+      "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/food_dz-ar_2026-10-13.json",
+      "sha256": "1f1f934812c63371c028667af3b68dbfedb78a4ed8e912656f690ecba42b61f0"
+    }
+  ]
+}
