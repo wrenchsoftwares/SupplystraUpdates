@@ -12,7 +12,7 @@
       "item_count": 14970,
       "format": "sqlcipher",
       "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/food_dz-ar_2026.11.14.db",
-      "sha256": "c45e3b8ea488fc6d70e78ab821f5deb5abd0ad6a3c57f8abc12cd0c450437ab2"
+      "sha256": "270823d1fc82a201efac28b8e2efe3e945638681df7b890f68f5ce68cd375313"
     },
     {
       "schema_version": 1,
@@ -25,7 +25,7 @@
       "item_count": 705,
       "format": "sqlcipher",
       "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/cleaning_supplies_dz-ar_2026.11.14.db",
-      "sha256": "0242cfb550f833ce319ca5ede76f0ea2e1a6a79d3d908d0665f3730a83560ed3"
+      "sha256": "50ec5edeabe434ca29b5b755b797a969450800a78a1e5e317599e93219302e19"
     },
     {
       "schema_version": 1,
@@ -38,7 +38,7 @@
       "item_count": 4,
       "format": "sqlcipher",
       "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/baby_dz-ar_2026.11.14.db",
-      "sha256": "15e866ed61198062d525e6bfa15b1b70ddff764a5cc8cd482fc0bacd12cfaae4"
+      "sha256": "3c087fed97a738f22a51772a183fc86784df2b716fe7650abe925a6c6c600b37"
     }
   ]
 }
