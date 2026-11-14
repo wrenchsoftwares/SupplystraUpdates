@@ -29,19 +29,6 @@
     },
     {
       "schema_version": 1,
-      "id": "stationery_dz-ar_2026-11-14",
-      "name": "Stationery - DZ (ar)",
-      "market": "DZ",
-      "language": "ar",
-      "category": "stationery",
-      "version": "2026-11-14",
-      "item_count": 2,
-      "format": "sqlcipher",
-      "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/stationery_dz-ar_2026.11.14.db",
-      "sha256": "7335051daf41c8ed4f6c6d51366369138fc1c1a2656ccc95c32d215877a084f1"
-    },
-    {
-      "schema_version": 1,
       "id": "baby_dz-ar_2026-11-14",
       "name": "Baby - DZ (ar)",
       "market": "DZ",
