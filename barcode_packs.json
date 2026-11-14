@@ -13,6 +13,58 @@
       "format": "sqlcipher",
       "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/food_dz-ar_2026-10-13.db",
       "sha256": "08c6ed700a731e17225d138a2014be55ede9c46ae2b5d41ebd211a3667afc095"
+    },
+    {
+      "schema_version": 1,
+      "id": "general_dz-ar_2026-11-14",
+      "name": "General - DZ (ar)",
+      "market": "DZ",
+      "language": "ar",
+      "category": "general",
+      "version": "2026-11-14",
+      "item_count": 60,
+      "format": "sqlcipher",
+      "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/general_dz-ar_2026.11.14.db",
+      "sha256": "91f55bf97ad2c2c1f6757cf0694c6352dc918204a7b4401599d4222f8a2666f3"
+    },
+    {
+      "schema_version": 1,
+      "id": "food_dz-ar_2026-11-14",
+      "name": "Food - DZ (ar)",
+      "market": "DZ",
+      "language": "ar",
+      "category": "food",
+      "version": "2026-11-14",
+      "item_count": 14930,
+      "format": "sqlcipher",
+      "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/food_dz-ar_2026.11.14.db",
+      "sha256": "9a257a7524f488d2d6c893a96c3855d131f62b80572e6dd5161d4be157d9cdf8"
+    },
+    {
+      "schema_version": 1,
+      "id": "cleaning_supplies_dz-ar_2026-11-14",
+      "name": "Cleaning Supplies - DZ (ar)",
+      "market": "DZ",
+      "language": "ar",
+      "category": "cleaning_supplies",
+      "version": "2026-11-14",
+      "item_count": 690,
+      "format": "sqlcipher",
+      "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/cleaning_supplies_dz-ar_2026.11.14.db",
+      "sha256": "880cc40ece8602673d4d46172c5b9a201dd1973e2eead0c3b518c462c9e4c45c"
+    },
+    {
+      "schema_version": 1,
+      "id": "stationery_dz-ar_2026-11-14",
+      "name": "Stationery - DZ (ar)",
+      "market": "DZ",
+      "language": "ar",
+      "category": "stationery",
+      "version": "2026-11-14",
+      "item_count": 2,
+      "format": "sqlcipher",
+      "file": "https://raw.githubusercontent.com/wrenchsoftwares/SupplystraUpdates/refs/heads/main/barcode_packs/stationery_dz-ar_2026.11.14.db",
+      "sha256": "71287f431192ef47c79c4c3f34128a612de1fdc23873bc1d80a51028bc5c6e63"
     }
   ]
 }
